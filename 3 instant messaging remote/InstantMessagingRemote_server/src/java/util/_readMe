@@ -1,0 +1,3 @@
+all entity classes must have a constructor with no arguments
+in order to be used by the RESTful web services library as
+convertable instances of json objects to be send/received.
