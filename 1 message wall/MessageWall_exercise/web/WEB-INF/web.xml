@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+
+    <listener>
+        <description>ServletContextListener</description>
+        <listener-class>demo.web.ContextListener</listener-class>
+    </listener>
+
+    <servlet>
+        <servlet-name> controller </servlet-name>
+        <servlet-class> demo.web.ControllerServlet </servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name> controller </servlet-name>
+        <url-pattern> *.do </url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name> wallview </servlet-name>
+        <servlet-class> demo.web.WallViewServlet </servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name> wallview </servlet-name>
+        <url-pattern> /wallview </url-pattern>
+    </servlet-mapping>
+
+    <mime-mapping>
+        <extension> java </extension>
+        <mime-type> text/java </mime-type>
+    </mime-mapping>
+
+    <welcome-file-list>
+        <welcome-file>
+            login.html
+        </welcome-file>
+    </welcome-file-list>
+
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+
+</web-app>
