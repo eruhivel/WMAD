@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:3:11-37
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:6-45
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:6-45
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:6-45
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:6-45
+INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:6-45
+	android:maxSdkVersion
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:16-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:6-45
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:7:6-45
+		INJECTED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:14:5-47:19
+	android:label
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:15:18-50
+	android:hardwareAccelerated
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:16:18-52
+	android:theme
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:17:18-60
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:14:18-46
+activity#edu.upc.whatsapp.a_WelcomeActivity
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:label
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:20:19-51
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:19:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:23:27-74
+activity#edu.upc.whatsapp.b_LoginActivity
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:28:19-55
+	android:label
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:30:19-45
+	android:theme
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:29:19-62
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:27:19-49
+activity#edu.upc.whatsapp.c_RegistrationActivity
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:33:19-55
+	android:label
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:34:19-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:35:19-60
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:32:19-56
+activity#edu.upc.whatsapp.d_UsersListActivity
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:37:9-39:20
+	android:label
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:38:19-45
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:37:19-53
+activity#edu.upc.whatsapp.e_MessagesActivity
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:41:19-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:42:19-60
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:40:19-53
+service#edu.upc.whatsapp.service.PushService
+ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:45:9-56
+	android:name
+		ADDED from C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app\src\main\AndroidManifest.xml:45:18-53
