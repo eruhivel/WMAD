@@ -13,12 +13,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static edu.upc.whatsapp.comms.Comms.gson;
+
+import edu.upc.whatsapp.adapter.MyAdapter_messages;
 import edu.upc.whatsapp.service.PushService;
 import entity.Message;
 import entity.UserInfo;
 
 public class _GlobalState extends Application {
 
+  public MyAdapter_messages adapter;
   public UserInfo my_user, user_to_talk_to;
   public boolean MessagesActivity_visible;
 

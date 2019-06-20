@@ -10,9 +10,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b8cf36c-a524-4aa6-8431-0bb6f288982f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2 instant messaging local/InstantMessagingLocal_exercise/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../2 instant messaging local/InstantMessagingLocal_exercise/build/built-jar.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../3 instant messaging remote/InstantMessagingRemote_client_exercise/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3 instant messaging remote/InstantMessagingRemote_client_exercise/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3 instant messaging remote/InstantMessagingRemote_server/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3 instant messaging remote/InstantMessagingRemote_server/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4 instant messaging remote with ddbb/InstantMessagingRemote_client_with_ddbb_exercise/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4 instant messaging remote with ddbb/InstantMessagingRemote_client_with_ddbb_exercise/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/_GlobalState.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/_GlobalState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/e_MessagesActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/service/PushService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/service/PushService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/service/PushService$MyEndPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/service/PushService$MyEndPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/service/PushService.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/upc/whatsapp/service/PushService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/_GlobalState.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/_GlobalState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/e_MessagesActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/service/PushService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/service/PushService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/service/PushService$MyEndPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/service/PushService$MyEndPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/service/PushService.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/edu/upc/whatsapp/service/PushService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/26/edu/upc/whatsapp/service/PushService$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/26/edu/upc/whatsapp/service/PushService$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/26/edu/upc/whatsapp/service/PushService$MyEndPoint.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/26/edu/upc/whatsapp/service/PushService$MyEndPoint.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/26/edu/upc/whatsapp/service/PushService.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/26/edu/upc/whatsapp/service/PushService.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/_GlobalState.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/_GlobalState.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$4$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$4$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27/edu/upc/whatsapp/e_MessagesActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/_GlobalState.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/_GlobalState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$SendMessage_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$fetchAllMessages_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessagesTimerTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity$fetchNewMessages_Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/e_MessagesActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/service/PushService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/service/PushService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/service/PushService$MyEndPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/service/PushService$MyEndPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/service/PushService.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/edu/upc/whatsapp/service/PushService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/_GlobalState.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/_GlobalState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/e_MessagesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/e_MessagesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/service/PushService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/service/PushService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,25 +99,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/service/PushService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="130" column="39" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="44" />
+            <state relative-caret-position="204">
+              <caret line="188" column="47" selection-start-line="188" selection-start-column="39" selection-end-line="188" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4225#4458#0" expanded="true" />
-                <element signature="e#4457#4458#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$PROJECT_DIR$/app/libs/tyrus-standalone-client-1.3.3.jar!/javax/websocket/Endpoint.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -55,8 +114,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/e_MessagesActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="123" column="24" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="24" />
+            <state relative-caret-position="246">
+              <caret line="99" column="49" lean-forward="true" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/_GlobalState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -65,16 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>message</find>
-      <find>public</find>
-      <find>myendpo</find>
-      <find>connectToServer</find>
-      <find>MyTimerTask</find>
-      <find>runnable</find>
-      <find>start</find>
-      <find>onStartCommand</find>
-      <find>addMessageHandler</find>
-      <find>addmessage</find>
       <find>handleMessage</find>
       <find>message sent</find>
       <find>myendpoi</find>
@@ -86,7 +144,6 @@
       <find>sendtext</find>
       <find>sess</find>
       <find>sessio</find>
-      <find>adapter</find>
       <find>getBasicRemote</find>
       <find>onO</find>
       <find>session</find>
@@ -95,6 +152,17 @@
       <find>intent</find>
       <find>sendText</find>
       <find>get</find>
+      <find>onopen</find>
+      <find>my_user</find>
+      <find>global</find>
+      <find>_global</find>
+      <find>_globalstate</find>
+      <find>handler</find>
+      <find>postexe</find>
+      <find>gson</find>
+      <find>acti</find>
+      <find>activity</find>
+      <find>adapter</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\enric\Desktop\Master\WMAD\Entregas\Android\WhatsApp_exercise\app</dir>
@@ -116,12 +184,13 @@
         <option value="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/adapter/MyAdapter_users.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/b_LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/adapter/MyAdapter_messages.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/_GlobalState.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/e_MessagesActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/service/PushService.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -135,10 +204,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WhatsApp_exercise" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="WhatsApp_exercise" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="WhatsApp_exercise" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="whatsapp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WhatsApp_exercise" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="whatsapp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WhatsApp_exercise" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="whatsapp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="comms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WhatsApp_exercise" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="whatsapp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,10 +344,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1260" height="620" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4991119" visible="true" weight="0.17333333" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4991119" visible="true" weight="0.17327935" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" sideWeight="0.5008881" side_tool="true" weight="0.20404859" />
@@ -244,12 +355,12 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" weight="0.26434427" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.3708502" weight="0.55950266" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.3285968" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.3285968" />
       <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.8453441" side_tool="true" weight="0.5204263" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.6291498" side_tool="true" weight="0.55950266" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.21136767" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.15465587" weight="0.22912966" />
       <window_info anchor="bottom" id="Debug" order="8" />
@@ -505,29 +616,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/tyrus-standalone-client-1.3.3.jar!/javax/websocket/Endpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/e_MessagesActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="123" column="24" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="24" />
+        <state relative-caret-position="246">
+          <caret line="99" column="49" lean-forward="true" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/_GlobalState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/upc/whatsapp/service/PushService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="130" column="39" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="44" />
+        <state relative-caret-position="204">
+          <caret line="188" column="47" selection-start-line="188" selection-start-column="39" selection-end-line="188" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4225#4458#0" expanded="true" />
-            <element signature="e#4457#4458#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/app/libs/tyrus-standalone-client-1.3.3.jar!/javax/websocket/Endpoint.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

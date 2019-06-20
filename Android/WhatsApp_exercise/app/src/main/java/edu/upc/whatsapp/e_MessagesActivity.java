@@ -98,6 +98,7 @@ public class e_MessagesActivity extends Activity {
                 adapter = new MyAdapter_messages(getBaseContext(), all_messages, globalState.my_user);
                 conversation = findViewById(R.id.conversation);
                 conversation.setAdapter(adapter);
+                globalState.adapter = adapter;
             }
         }
     }

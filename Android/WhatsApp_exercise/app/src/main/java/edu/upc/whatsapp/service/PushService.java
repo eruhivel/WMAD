@@ -135,9 +135,9 @@ public class PushService extends Service {
             try {
 
 
-                //String json = gson.toJson(globalState.my_user);
+                String json = gson.toJson(globalState.my_user);
 
-               // session.getBasicRemote().sendText(json);
+               session.getBasicRemote().sendText(json);
 
 
                 sendMessageToHandler("open", "connection opened");
@@ -184,8 +184,11 @@ public class PushService extends Service {
         public void handleMessage(android.os.Message msg) {
             String type = msg.getData().getCharSequence("type").toString();
             String content = msg.getData().getCharSequence("content").toString();
-            if (type.equals("message")) {
 
+            if (type.equals("message")) {
+                Message message = gson.fromJson(content,Message.class);
+                globalState.adapter.addMessage(message);
+                globalState.adapter.notifyDataSetChanged();
                 String json = gson.toJson(msg);
                 sendPushNotification(getApplication(), content, json);
 
